@@ -24,7 +24,7 @@ Feng, M., Wang, X., Zhao, Z., Jiang, C., Xiong, J., & Zhang, N. (2024). Enhanced
 
 ## Authors
 1. @ [Mingyang Feng](https://github.com/1366560t)   <br>
-2. @ 
+2. @ [Xiaosong Wang](https://github.com/XiaosongWangcode)   <br>
 3. @ [Zhiming Zhao](https://github.com/zhiming817)  <br>
 4. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang)  <br>
 5. @ [Jize Xiong](https://github.com/Jasonxiong824)   <br>
